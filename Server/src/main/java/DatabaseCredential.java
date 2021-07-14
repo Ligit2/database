@@ -1,7 +1,7 @@
 public class DatabaseCredential {
-    private static final String URL = "jdbc:mariadb://localhost:3306/DataBase";
-    private static final String user = "root";
-    private static final String password = "Kittymiki20@";
+    private static final String URL = "";
+    private static final String user = "";
+    private static final String password = "";
 
     public static String getURL() {
         return URL;
